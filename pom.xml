@@ -49,8 +49,8 @@
 
     <distributionManagement>
             <repository>
-  <id>flm-feed</id>
-  <url>https://pkgs.dev.azure.com/afsanabegummd00/MyFirstProject/_packaging/flm-feed/maven/v1</url>
+   <id>nexusRepo</id>
+   <url>http://100.48.90.152:8081/repository/myrepo/</url>
   <releases>
     <enabled>true</enabled>
   </releases>
